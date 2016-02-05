@@ -1,8 +1,9 @@
 {
 	"class" : {
-		"cleanupVigorousCaching" : "YuriyTymchuk 2/5/2016 10:24",
+		"cleanVigorousCache" : "YuriyTymchuk 2/5/2016 11:54",
 		"installLinkOn:" : "YuriyTymchuk 2/5/2016 09:38",
-		"reinstalVigorousCaching" : "YuriyTymchuk 2/5/2016 10:25",
+		"reinstalVigorousCaching" : "YuriyTymchuk 2/5/2016 11:56",
+		"removeVigorousCaching" : "YuriyTymchuk 2/5/2016 11:55",
 		"skipCachePragma" : "YuriyTymchuk 2/5/2016 09:23" },
 	"instance" : {
 		 } }

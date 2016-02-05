@@ -1,7 +1,7 @@
 scripts
-cleanupVigorousCaching
+removeVigorousCaching
 	<script>
 
+	self cleanVigorousCache.
 	self methods do: [ :method |
-		method cleanVigorousCache.
 		method destroyTwin ]

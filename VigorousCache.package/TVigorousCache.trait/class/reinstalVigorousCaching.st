@@ -2,6 +2,6 @@ scripts
 reinstalVigorousCaching
 	<script>
 
-	self cleanupVigorousCaching.
 	self methods do: [ :method |
+		method destroyTwin.
 		self installLinkOn: method ]
