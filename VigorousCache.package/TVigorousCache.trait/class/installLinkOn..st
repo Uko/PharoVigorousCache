@@ -1,6 +1,6 @@
 actions
 installLinkOn: aCompiledMethod
-	<skipVigirousCache>
+	<skipVigorousCache>
 
 	| link |
 

@@ -2,10 +2,10 @@
 	"class" : {
 		"cleanVigorousCache" : "YuriyTymchuk 2/5/2016 11:54",
 		"initialize" : "YuriyTymchuk 2/10/2016 19:34",
-		"installLinkOn:" : "YuriyTymchuk 2/5/2016 09:38",
+		"installLinkOn:" : "YuriyTymchuk 2/11/2016 01:37",
 		"noteCompilationOfMethod:meta:" : "YuriyTymchuk 2/8/2016 14:22",
 		"reinstalVigorousCaching" : "YuriyTymchuk 2/5/2016 11:56",
 		"removeVigorousCaching" : "YuriyTymchuk 2/5/2016 11:55",
-		"skipCachePragma" : "YuriyTymchuk 2/5/2016 09:23" },
+		"skipCachePragma" : "YuriyTymchuk 2/11/2016 01:37" },
 	"instance" : {
 		 } }
