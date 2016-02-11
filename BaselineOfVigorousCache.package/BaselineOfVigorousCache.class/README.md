@@ -1,0 +1,1 @@
+I'm a vigorous cache project… just use the TVigorousCache trait in your class and check the class-side script methods. You instance sice methods with no parameters will be automatially cached

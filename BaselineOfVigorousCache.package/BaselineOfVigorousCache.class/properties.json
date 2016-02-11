@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfVigorousCache",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 2/11/2016 01:32",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfVigorousCache",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
